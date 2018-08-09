@@ -1,7 +1,9 @@
 package kshop.lzr.com.kotlin_shop.ui.activity
 
+import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import android.view.View
 import kshop.lzr.com.kotlin_shop.R
 
 class MainActivity : AppCompatActivity(){
@@ -11,4 +13,7 @@ class MainActivity : AppCompatActivity(){
         setContentView(R.layout.activity_main)
 
     }
+
+
+
 }
